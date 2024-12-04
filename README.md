@@ -14,8 +14,19 @@
 
 🛠️ Join me on this exciting journey as I strive to push the boundaries of what's possible in web development. 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omshreevinayak&label=Profile%20views&color=0e75b6&style=flat" alt="omshreevinayak" />
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omshreevinayak&label=Profile%20views&color=0e75b6&style=flat" alt="omshreevinayak" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Testing-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Testing with Jest" />
+  <img src="https://img.shields.io/badge/Testing-Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Testing with Mocha" />
+  <img src="https://img.shields.io/badge/Contribution-GitHub%20Forks-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Forks" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Documentation-ReadTheDocs-4F8AB6?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentation with ReadTheDocs" />
+  <img src="https://img.shields.io/badge/License-MIT-1793D1?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="MIT License" />
+</p>
+
 
 - 🔭 I’m currently working on **Full Stack AI GitHub SaaS**
 
@@ -78,8 +89,39 @@ incredible web experiences we have today! 🌐✨**
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omshreevinayak&show_icons=true&locale=en&layout=compact" alt="omshreevinayak" /></p>
+## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="25"> GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omshreevinayak&show_icons=true&locale=en" alt="omshreevinayak" /></p>
+<div align="center" style="display: flex; flex-direction: column; gap: 30px;">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omshreevinayak&" alt="omshreevinayak" /></p>
+  <!-- Top Row -->
+  <div>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=omshreevinayak&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" 
+      alt="omshreevinayak's Stats" 
+      width="50%" 
+      style="margin: 500px;" 
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=omshreevinayak&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" 
+      alt="omshreevinayak's Top Languages" 
+      width="30%" 
+      style="margin: 500px; margin-left:20px" 
+    />
+  </div>
+
+  <!-- Bottom Row -->
+  <div style="margintop:10px">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=omshreevinayak&theme=vue-dark&hide_border=false" 
+      alt="omshreevinayak's Streak" 
+      width="80%" 
+      style="margin: 10px;" 
+    />
+  </div>
+
+</div>
+
+
+
+
+
