@@ -27,7 +27,16 @@
 
 - 👨‍💻 All of my projects are available at [https://omshreevinayak.github.io/Portfolio/](https://omshreevinayak.github.io/Portfolio/)
 
-- 💬 Ask me about **🌐 Web Development: Next.js, React, Tailwind CSS, tRPC, and more. 📦 Full-Stack Development: Building robust applications with MERN stack. 🚀 DevOps: Docker, CI/CD pipelines, Kubernetes, Azure. 🤖 AI & Machine Learning: Integrating AI into SaaS applications. 🛠️ Project Management: Best practices for developing and deploying scalable projects. 🎨 UI/UX Design: Creating intuitive and engaging user interfaces. 💡 Innovative Ideas: Brainstorming and bringing creative solutions to life. 📚 Certifications: AWS, Microsoft Azure, and Google Cloud expertise. 🌟 Career Advice: Tips for advancing in tech and achieving your goals.**
+- 💬 Ask me about:
+  **🌐 Web Development: Next.js, React, Tailwind CSS, tRPC, and more.
+  📦 Full-Stack Development: Building robust applications with MERN stack.
+  🚀 DevOps: Docker, CI/CD pipelines, Kubernetes, Azure.
+  🤖 AI & Machine Learning: Integrating AI into SaaS applications.
+  🛠️ Project Management: Best practices for developing and deploying scalable projects.
+  🎨 UI/UX Design: Creating intuitive and engaging user interfaces.
+  💡 Innovative Ideas: Brainstorming and bringing creative solutions to life.
+  📚 Certifications: AWS, Microsoft Azure, and Google Cloud expertise.
+  🌟 Career Advice: Tips for advancing in tech and achieving your goals.**
 
 - 📫 How to reach me **omshreevinayak5@gmail.com**
 
