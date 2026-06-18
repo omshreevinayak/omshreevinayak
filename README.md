@@ -1,8 +1,4 @@
-<h3 align="center"> <img src="https://github.com/OmShreeVinayak20/djbravo/blob/main/Purple%20and%20Green%20Modern%20ICT%20Computer%20Parts%20Classroom%20Quiz%20(2).gif?raw=true" alt="ICT Quiz" />
-</h3>
 <h1 align="center" style="font-family: 'Parkinsans', serif;">Hi 👋, I'm Om Shree Vinayak</h1>
-
-# 👋 Hi, I'm Om Shree Vinayak
 
 ## 🚀 C++ Developer | Low-Latency Systems Engineer
 
@@ -23,11 +19,14 @@ Currently, I am architecting a **production-grade order matching engine** from s
 
 ## ⚡ Core Competencies
 
-- **Languages:** C++20, Python
-- **Systems:** Linux, Multithreading, Lock-Free Data Structures, Memory Management
-- **Networking:** epoll / io_uring, TCP/UDP, Zero-Copy
-- **Tools:** Git, Docker, Performance Benchmarking
-- **Target:** AtCoder 1600+ by February 2027
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Multithreading](https://img.shields.io/badge/Multithreading-007396?style=for-the-badge&logo=apache&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Benchmarking](https://img.shields.io/badge/Performance-Benchmarking-blue?style=for-the-badge&logo=gnu&logoColor=white)
+
 
 ---
 
