@@ -43,7 +43,6 @@ I focus on **data-oriented design**, **cache efficiency**, and **predictable per
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Bullseye" width="25" height="25" /> Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/om-shree-vinayak](https://www.linkedin.com/in/om-shree-vinayak-54124a237/)
 - **Email:** omshreevinayak5@gmail.com
 
 Open to opportunities in **Singapore**, **Europe**, and **Japan**.
