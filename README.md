@@ -16,7 +16,7 @@ Currently, I am architecting a **production-grade order matching engine** from s
 - **Low-Latency Order Matching Engine**  
   *C++20 | Lock-Free Queues | Memory Pools | epoll | Docker*  
   Implementing price-time priority matching, zero-contention order ingestion, and sub-microsecond latency targets.  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25"/>   [github.com/omshreevinayak/matching-engine](https://github.com/omshreevinayak/matching-engine)
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25"/>   [github.com/omshreevinayak/matching-engine](https://github.com/omshreevinayak/miniexchange)
 
 ---
 
