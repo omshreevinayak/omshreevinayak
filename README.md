@@ -46,3 +46,5 @@ I focus on **data-oriented design**, **cache efficiency**, and **predictable per
 - **Email:** omshreevinayak5@gmail.com
 
 Open to opportunities in **Singapore**, **Europe**, and **Japan**.
+
+![GitHub Stats](https://ghstats.dev/api/card?username=omshreevinayak)
