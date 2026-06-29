@@ -47,4 +47,4 @@ I focus on **data-oriented design**, **cache efficiency**, and **predictable per
 
 Open to opportunities in **Singapore**, **Europe**, and **Japan**.
 
-![GitHub Stats](https://ghstats.dev/api/card?username=omshreevinayak&hide_border=true)
+![GitHub Stats](https://ghstats.dev/api/card?username=omshreevinayak&hide_border=true&v=2)
